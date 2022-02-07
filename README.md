@@ -1,5 +1,5 @@
 
-This is a simple web app that gives  Admin full contorl to Create, Read, Update, and Delete Students when need be.
+This is a simple web app that gives  Admin full control to Create, Read, Update, and Delete Students when need be.
 
 
 
