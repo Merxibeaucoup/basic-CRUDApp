@@ -1,3 +1,8 @@
+
+This is a simple web app that gives  Admin full contorl to Create, Read, Update, and Delete Students when need be.
+
+
+
 # basic-studentCrudApp
 
 technologies used :-
@@ -20,7 +25,7 @@ technologies used :-
 
 -- Duration: 5 hours
 
-This is a simple web app that gives  Admin full contorl to Create, Read, Update, and Delete Students when need be.
+
 
 # Home page
 ![Screen Shot 2022-02-07 at 5 06 13 PM](https://user-images.githubusercontent.com/99098876/152880783-7ce7f026-fbd9-472e-9acc-5d4ff074322c.png)
