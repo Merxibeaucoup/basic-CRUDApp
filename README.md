@@ -21,4 +21,25 @@ technologies used :-
 -- Duration: 5 hours
 
 This is a simple web app that gives  Admin full contorl to Create, Read, Update, and Delete Students when need be.
-![Screen Shot 2022-01-21 at 12 38 04 PM](https://user-images.githubusercontent.com/99098876/152879840-2d1872de-e0bd-4105-ad2b-e2b44134fa2a.png)
+
+# Home page
+![Screen Shot 2022-02-07 at 5 06 13 PM](https://user-images.githubusercontent.com/99098876/152880783-7ce7f026-fbd9-472e-9acc-5d4ff074322c.png)
+
+# Add new Student
+ Mac Jones was added to List
+
+![Screen Shot 2022-02-07 at 5 07 12 PM](https://user-images.githubusercontent.com/99098876/152880839-577a24b6-94b5-4757-b9c1-ffcf4dd06a7b.png)
+![Screen Shot 2022-02-07 at 5 07 28 PM](https://user-images.githubusercontent.com/99098876/152880905-5187c07f-dc49-4185-bac0-de4e4391e5f5.png)
+
+# Edit student 
+Student with id 1 data was edited
+![Screen Shot 2022-02-07 at 5 08 58 PM](https://user-images.githubusercontent.com/99098876/152880988-ad98bddc-ed1e-492c-9a27-547df22b90e1.png)
+
+# Delete Student
+Tom Brady was Deleted
+
+![Screen Shot 2022-02-07 at 5 10 06 PM](https://user-images.githubusercontent.com/99098876/152881196-579a8589-d830-4550-85f7-180dca8e937d.png)
+![Screen Shot 2022-02-07 at 5 10 27 PM](https://user-images.githubusercontent.com/99098876/152881252-ddf8728d-9c9f-4bb3-af6b-b4b3aef3e9a4.png)
+
+
+
