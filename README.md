@@ -62,7 +62,10 @@ Tom Brady was Deleted
 
 
 
+# Log out
 
+![Screen Shot 2![Screen Shot 2022-02-11 at 3 31 08 AM](https://user-images.githubusercontent.com/99098876/153559799-cccae473-32b8-41bf-987a-ebe5bf80a1c3.png)
+![Screen Shot 2022-02-11 at 3 31 08 AM](https://user-images.githubusercontent.com/99098876/153559869-325e95e5-02c1-4932-87bd-78860e27d184.png)
 
 
 
