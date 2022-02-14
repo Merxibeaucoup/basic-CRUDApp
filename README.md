@@ -58,14 +58,16 @@ Tom Brady was Deleted
 
 
 # Log in
-![Screen Shot 2022-02-11 at 1 57 10 AM](https://user-images.githubusercontent.com/99098876/153553052-b3f8ab03-42a1-4a74-8558-75b7d3170f02.png)
-![Screen Shot 2022-02-11 at 1 57 31 AM](https://user-images.githubusercontent.com/99098876/153553079-ac54bd61-abbb-40d4-9086-c5fd8c6dd89e.png)
+![Screen Shot 2022-02-14 at 3 08 33 PM](https://user-images.githubusercontent.com/99098876/153938767-47e48041-0079-45ef-ad04-0b685b857e38.png)
+
+
 
 
 
 # Log out
-![Screen Shot 2022-02-11 at 3 12 35 AM](https://user-images.githubusercontent.com/99098876/153559964-22b49d74-4eb8-4d64-8701-c495f8b43c3f.png)
-![Screen Shot 2022-02-11 at 3 31 08 AM](https://user-images.githubusercontent.com/99098876/153559986-00f8ce4e-9d25-48c3-84c1-3198b17fba1e.png)
+![Screen Shot 2022-02-14 at 3 09 27 PM](https://user-images.githubusercontent.com/99098876/153938794-c7008e9e-10fd-42cc-97b7-7799effa419b.png)
+![Screen Shot 2022-02-14 at 3 09 35 PM](https://user-images.githubusercontent.com/99098876/153938840-85ef4a06-e0be-4f1a-9682-8fb80afbf05b.png)
+
 
 
 
