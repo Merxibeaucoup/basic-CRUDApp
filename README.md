@@ -1,6 +1,7 @@
 
 # Edit 
-- (february 9, 2022) added a login page for secure entry to the  app  
+-  added a login page for secure entry to the  app  
+-  created my own login page for successful redirection
 - logout button as well 
 - Using Spring security
 - postgreSQL to store password/s
