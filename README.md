@@ -22,6 +22,8 @@ technologies used :-
 
 --spring Boot
 
+--Spring Security
+
 --postgresql
 
 --thymeleaf
@@ -31,6 +33,8 @@ technologies used :-
 --H2
 
 --Bootstrap
+
+--HTML
 
 --Jquery
 
